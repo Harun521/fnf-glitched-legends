@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				10,
+				-20
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				20,
+				-30
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-20,
+				50
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-40,
+				50
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "right",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-140,
-				-100
+				0,
+				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "gf_pibby instancia "
+			"indices": [],
+			"name": "idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gf_pibby",
+	"image": "characters/pibbeh",
 	"position": [
-		0,
-		0
+		-460,
+		40
 	],
-	"healthicon": "face",
-	"flip_x": false,
+	"healthicon": "pibbeh-icons",
+	"flip_x": true,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		153,
+		153,
+		255
 	],
 	"camera_position": [
-		0,
-		0
+		-500,
+		410
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.4
 }

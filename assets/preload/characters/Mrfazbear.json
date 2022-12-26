@@ -3,75 +3,75 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				200,
+				100
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "mrfredy_pibby_left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				90,
+				10
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "mrfredy_pibby_down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				90,
+				100
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "mrfredy_pibby_up",
 			"indices": []
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				0,
-				0
+				110,
+				50
 			],
-			"anim": "singRIGHT",
+			"anim": "idle",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "mrfredy_pibby_idle",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-140,
-				-100
+				140,
+				61
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "idle",
-			"loop": true,
-			"name": "gf_pibby instancia "
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mrfredy_pibby_right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gf_pibby",
+	"image": "characters/Mr Fazbear_glitched",
 	"position": [
-		0,
-		0
+		-160,
+		-40
 	],
-	"healthicon": "face",
+	"healthicon": "Mr Faz_glitch",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		153,
+		102,
+		0
 	],
 	"camera_position": [
-		0,
-		0
+		-200,
+		-190
 	],
 	"sing_duration": 6.1,
 	"scale": 1

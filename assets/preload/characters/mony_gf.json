@@ -46,21 +46,21 @@
 		},
 		{
 			"offsets": [
-				-140,
-				-100
+				0,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "gf_pibby instancia "
+			"loop": false,
+			"name": "monika_idle_beat_judge_water"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gf_pibby",
+	"image": "characters/mony_gf",
 	"position": [
-		0,
-		0
+		20,
+		250
 	],
 	"healthicon": "face",
 	"flip_x": false,
@@ -70,7 +70,7 @@
 		161
 	],
 	"camera_position": [
-		0,
+		-200,
 		0
 	],
 	"sing_duration": 6.1,

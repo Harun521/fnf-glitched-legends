@@ -6,61 +6,61 @@
 				0,
 				0
 			],
-			"anim": "singLEFT",
+			"anim": "idle",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "Squid_idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				160,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Squid_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-210
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "Squid_down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				200,
+				140
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "Squid_up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				90,
+				80
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "Squid_right",
 			"indices": []
-		},
-		{
-			"offsets": [
-				-140,
-				-100
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
-			"loop": true,
-			"name": "gf_pibby instancia "
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gf_pibby",
+	"image": "characters/squidward_pibby",
 	"position": [
-		0,
-		0
+		-140,
+		110
 	],
 	"healthicon": "face",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		161
 	],
 	"camera_position": [
-		0,
-		0
+		-470,
+		50
 	],
 	"sing_duration": 6.1,
 	"scale": 1

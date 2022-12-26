@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-220,
+				-90
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-140,
-				-100
+				0,
+				0
 			],
 			"indices": [],
 			"fps": 24,
